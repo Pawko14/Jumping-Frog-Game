@@ -12,4 +12,8 @@ Edition	Windows 10 Education N
 
 # Samples 
 
+![GameOverScreen](GameOverScreen.png)
 ![Gameplay](gameplay.png)
+![GameSample](GameSample.png)
+![StartingScreen](StartingScreen.png)
+
